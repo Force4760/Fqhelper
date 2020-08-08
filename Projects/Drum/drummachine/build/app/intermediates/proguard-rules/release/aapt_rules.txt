@@ -1,0 +1,4 @@
+# Referenced at E:\_CODING\Flutter\Projects\Drum\drummachine\build\app\intermediates\merged_manifests\release\processReleaseManifest\merged\AndroidManifest.xml:22
+-keep class com.example.drummachine.MainActivity { <init>(...); }
+# Referenced at E:\_CODING\Flutter\Projects\Drum\drummachine\build\app\intermediates\merged_manifests\release\processReleaseManifest\merged\AndroidManifest.xml:17
+-keep class io.flutter.app.FlutterApplication { <init>(...); }

@@ -1,0 +1,4 @@
+#Sat Jul 25 16:28:33 BST 2020
+base.0=E\:\\_CODING\\Flutter\\Projects\\Drum\\drummachine\\build\\app\\intermediates\\transforms\\dexMerger\\debug\\0
+path.0=classes.dex
+renamed.0=classes.dex
